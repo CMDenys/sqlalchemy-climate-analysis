@@ -23,21 +23,21 @@ The following Routes were created:
 - /api/v1.0/precipitation.  This route converts the query results to a dictionary using date as the key and prcp as the value.
 
 <p float="left" align="center">
-  <img src="images/precip_route.png" width="350" />
+  <img src="images/precip_route.png" width="500" />
   <img src="images/precip_list.png" width="350" /> 
 </p>
 
 - /api/v1.0/stations.  This route returns a JSON list of stations from the dataset.
 
 <p float="left" align="center">
-  <img src="images/stations_route.png" width="350" />
+  <img src="images/stations_route.png" width="500" />
   <img src="images/station_list.png" width="350" /> 
 </p>
 
 - /api/v1.0/tobs.  This route queries the dates and temperature observations of the most active station for the last year of data and returns a JSON list of temperature observations (TOBS) for the previous year.
 
 <p float="left" align="center">
-  <img src="images/tobs_route.png" width="350" />
+  <img src="images/tobs_route.png" width="500" />
   <img src="images/temp_list.png" width="350" /> 
 </p>
 
@@ -45,7 +45,7 @@ The following Routes were created:
 - /api/v1.0/<start> and /api/v1.0/<start>/<end>.  This route returns a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
   
 <p float="left" align="center">
-  <img src="images/input_route.png" width="350" />
+  <img src="images/input_route.png" width="500" />
   <img src="images/min_avg_max.png" width="350" /> 
 </p>
   
