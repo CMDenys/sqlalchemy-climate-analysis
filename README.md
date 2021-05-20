@@ -38,7 +38,7 @@ The following Routes were created:
 
 <p float="left" align="center">
   <img src="images/tobs_route.png" width="500" />
-  <img src="images/temp_list.png" width="350" /> 
+  <img src="images/temp_list.png" width="200" /> 
 </p>
 
 
