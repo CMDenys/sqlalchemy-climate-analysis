@@ -8,8 +8,8 @@ By using SQLAlchemy’s automap module, mapped classes could be automatically ge
 Starting from the most recent date, the previous year of both precipitation and station data was retrieved by querying the 12 preceding months of data.  These results were loaded into a Pandas data frame, where summary statistics were generated, and data could be plotted out.
 
 <p float="left" align="center">
-  <img src="images/precip_hist.png" width="350" />
-  <img src="images/temp_hist.png" width="350" /> 
+  <img src="images/precip_hist.png" width="300" />
+  <img src="images/temp_hist.png" width="300" /> 
 </p>
 
 Once an analysis was completed on precipitation and stations, a Flask API was designed based on the queries that were developed in the station analysis.  These were:
