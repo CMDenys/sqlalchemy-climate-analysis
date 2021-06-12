@@ -1,4 +1,3 @@
-# sqlalchemy-challenge
 
 Using Python and SQLAlchemy, a basic climate analysis and data exploration of precipitation history was conducted over a period of time in 2016.  
 
